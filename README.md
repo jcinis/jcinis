@@ -42,7 +42,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
 
-### Contact me if you want to collaborate on
+### Contact me to collaborate on
 
 ```
 - Expanding the bandwidth, quality, dimensionality, and distance of communication and collaboration
