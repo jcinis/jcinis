@@ -1,11 +1,12 @@
-### Hello Multiverse.
+### Hello Multiverse
 
 I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm aka basic.fail
 
+I belive that humans are just here to play, stuard biological life on earth, and birth non-biological electronic life in an effort to observe The Greater Universe.
+
 I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.  I love a good brain-dance and a cup of tea, so feel free to email me for a call or socially-distanced hang.
 
-I belive that humans are just here to play, stuard biological life on earth, and birth non-biological electronic life in an effort to observe and The Greater Universe.
-
+🦾🖤
 
 ### Transmissions from The Void
 
