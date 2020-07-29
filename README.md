@@ -8,13 +8,14 @@ I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to 
 
 🦾🖤
 
+
 ### Transmissions from The Void
 
 The reduction of negatively valenced emotions, and optimization of positively valenced ones is the primary driver of human effort, however, the only fundamental 'progress' is the increase and diversity of structured information  (atoms, dna, bits) and the battle against entropy.
 
 I deeply believe in aiding the continued evolution, diversity, and increased complexity of self-replicating information and it's instantiated emergent experiences.  In the same way that Fuller would re-describe UNIVERSE as all things physical and metaphysical, I would expand the explanation of LIFE to all things that move us away from the warm void of entropy.  Biological life is currently the most important instantiation, however, I believe that it will self-exterminate due to over-successful species if we don't help to augment the 'natural' processes.  This does not mean optimizing with human emotions as the fit functions, but expanding the playing field and turning the zero-sum game of battling for resources and energy into a new infinite game played in many dimensions.  The word "Extropy" would have been good but it was taken by the cybernetics movement and made to be incredibly anthropocentric.  We need a new word to open the imaginations of people and to let them understand the majesty that is our own beauty as a possible steward to the only fundamental progress that we know of.
 
-Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in a The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyperstimuli in every physical and emotional dimension.
+Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyperstimuli in every physical and emotional dimension.
 
 
 ### Current beliefs that might change
@@ -39,6 +40,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - There is no point in putting a man in an apartment if we are not putting a man on Mars.
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
+
 
 ### Contact me if you want to collaborate on
 
