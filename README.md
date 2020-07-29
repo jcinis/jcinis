@@ -1,8 +1,8 @@
 ### Hello Multiverse.
 
-I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm
+I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm aka basic.fail
 
-I'm easy to find everywhere as @jcinis and will attempt to keep https://j.cin.is somewhat current to my whereabouts and current projects.
+I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.
 
 
 ### Transmissions from The Void
@@ -14,7 +14,7 @@ I deeply believe in aiding the continued evolution, diversity, and increased com
 Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in a The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyperstimuli in every physical and emotional dimension.
 
 
-### What I currently belive but will likely change in the future
+### Current beliefs that might change
 
 - Our environment has outgrown our biology.
 - Our emotions evolved for environmental pressures that we no longer experience and for a time and place that we no longer live.
@@ -37,7 +37,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
-## Contact me if you agree or disagree but would like to collaborate on any of the following
+## Contact me if you want to chat or collaborate on
 
 - Increasing the bandwidth, quality, and distance of communication
   - Emotional replacement
@@ -45,42 +45,42 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - BCI+Drugs
   
 - Expanding the breadth of human conscious experience
-	- Psychedelics
-	- Meditation and Mindfulness practices
-	- Augmented and Virtual Reality
-	- Peak and profound experiences
-	- Gatherings, conferences, and festivals
-	- Art and Creativity
+  - Psychedelics
+  - Meditation and Mindfulness practices
+  - Augmented and Virtual Reality
+  - Peak and profound experiences
+  - Gatherings, conferences, and festivals
+  - Art and Creativity
 
 - Expanding the depth of human conscious experiences
-	- Mastery
-	- Flow states
-	- Teaching / Learning
-	- Travel
+  - Mastery
+  - Flow states
+  - Teaching / Learning
+  - Travel
 
 - Expending the quality of conscious experiences
   - Health
-	- Longevity
-	- Exercise
-	- Medicine
+  - Longevity
+  - Exercise
+  - Medicine
 
 - Making space for more people. (The best for the least for the most)
- 	- Sustainable Energy Production
- 	- Sustainable Food Production
- 	- Access to The Internet for all
- 	- Access to transportation for all
- 	- Access to nature for all
- 	- Access to birth control for all
-	- Access to education for all
+  - Sustainable Energy Production
+  - Sustainable Food Production
+  - Access to The Internet for all
+  - Access to transportation for all
+  - Access to nature for all
+  - Access to birth control for all
+  - Access to education for all
 
 - Preserving the building blocks and resources for life to flourish and evolve
-	- Preserving Bio Diversity
-	- Preserving Cultural Diversity
-	- Preserving Intellectual Diversity
-
+  - Preserving Bio Diversity
+  - Preserving Cultural Diversity
+  - Preserving Intellectual Diversity
+ 
 - Building tools that directly aid in any of those areas
-	- Power multipliers: Applications, Computation, Machine Learning
-	- Philosophies and Practices
-	- Products
-	- Services
-	- Communities
+  - Power multipliers: Applications, Computation, Machine Learning
+  - Philosophies and Practices
+  - Products
+  - Services
+  - Communities
