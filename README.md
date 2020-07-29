@@ -4,6 +4,9 @@ I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm aka bas
 
 I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.  I love a good brain-dance and a cup of tea, so feel free to email me for a call or socially-distanced hang.
 
+I belive that humans are just here to play, stuard biological life on earth, and birth non-biological electronic life in an effort to observe and The Greater Universe.
+
+
 ### Transmissions from The Void
 
 The reduction of negatively valenced emotions, and optimization of positively valenced ones is the primary driver of human effort, however, the only fundamental 'progress' is the increase and diversity of structured information  (atoms, dna, bits) and the battle against entropy.
@@ -39,31 +42,29 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 ### Contact me if you want to collaborate on
 
 ```
-- Increasing the bandwidth, quality, dimensionality, and distance of human communication
-  - Brain Computer Interfaces (BCI)
-  - BCI+Drugs
-  - Emotional replacement
-  - Becoming a wirehead
-  
+- Expanding the bandwidth, quality, dimensionality, and distance of communication and collaboration
+
 - Expanding the breadth of human conscious experience
+  - Brain Computer Interfaces (BCI)
   - Psychedelics
   - Meditation and Mindfulness practices
   - Augmented and Virtual Reality
+  - Emotional Replacement
   - Peak and profound experiences
   - Gatherings, conferences, and festivals
   - Art and Creativity
-
-- Expanding the depth of human conscious experiences
-  - Mastery
-  - Flow states
-  - Teaching / Learning
-  - Travel
 
 - Expending the quality of conscious experiences
   - Health
   - Longevity
   - Exercise
   - Medicine
+
+- Expanding the depth of human conscious experiences
+  - Mastery
+  - Flow states
+  - Teaching / Learning
+  - Travel
 
 - Making space for more people. (The best for the least for the most)
   - Sustainable Energy Production
@@ -80,7 +81,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Preserving Intellectual Diversity
  
 - Building tools that directly aid in any of those areas
-  - Power multipliers: Applications, Computation, Machine Learning
+  - Power multipliers: Applications, Computation, Predictive Algorithms, Machine Learning
   - Philosophies and Practices
   - Products
   - Services
