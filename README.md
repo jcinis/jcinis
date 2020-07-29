@@ -2,8 +2,7 @@
 
 I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm aka basic.fail
 
-I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.
-
+I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.  I love a good brain-dance and a cup of tea, so feel free to email me for a call or socially-distanced hang.
 
 ### Transmissions from The Void
 
@@ -37,12 +36,14 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
-## Contact me if you want to chat or collaborate on
+### Contact me if you want to collaborate on
 
-- Increasing the bandwidth, quality, and distance of communication
-  - Emotional replacement
-  - BCI
+```
+- Increasing the bandwidth, quality, dimensionality, and distance of human communication
+  - Brain Computer Interfaces (BCI)
   - BCI+Drugs
+  - Emotional replacement
+  - Becoming a wirehead
   
 - Expanding the breadth of human conscious experience
   - Psychedelics
@@ -84,3 +85,8 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Products
   - Services
   - Communities
+```
+
+### Moment of Zen
+
+What it must be to be a sphere. To grow in all directions at once. To move in complete potentiality, ready for whatever may come from any vector or valence. To be complete, contained, and listening to all possibilities. May we all be spheres. ⚪
