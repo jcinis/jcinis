@@ -91,6 +91,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Communities
 ```
 
+
 ### Moment of Zen
 
 What it must be to be a sphere. To grow in all directions at once. To move in complete potentiality, ready for whatever may come from any vector or valence. To be complete, contained, and listening to all possibilities. May we all be spheres. ⚪
