@@ -42,12 +42,11 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 
 <sub id="f1">[1.](#a1) Quote by Yvon Chouinard.</sub>
 
-### Contact me to collaborate on
+### Contact me to collaborate
 
-```
-- Expanding the bandwidth, quality, dimensionality, and distance of communication and collaboration
+I'm primarily interested in efforts that expand the bandwidth, quality, dimensionality, and distance of communication and collaboration.
 
-- Expanding the breadth of human conscious experience
+#### - Expanding the breadth of human conscious experience
   - Brain Computer Interfaces (BCI)
   - Psychedelics
   - Meditation and Mindfulness practices
@@ -57,19 +56,19 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Gatherings, conferences, and festivals
   - Art and Creativity
 
-- Expending the quality of conscious experiences
+#### - Expending the quality of conscious experiences
   - Health
   - Longevity
   - Exercise
   - Medicine
 
-- Expanding the depth of human conscious experiences
+#### - Expanding the depth of human conscious experiences
   - Mastery
   - Flow states
   - Teaching / Learning
   - Travel
 
-- Making space for more people. (The best for the least for the most)
+#### - Making space for more people. (The best for the least for the most)
   - Sustainable Energy Production
   - Sustainable Food Production
   - Access to The Internet for all
@@ -78,18 +77,17 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Access to birth control for all
   - Access to education for all
 
-- Preserving the building blocks and resources for life to flourish and evolve
+#### - Preserving the building blocks and resources for life to flourish and evolve
   - Preserving Bio Diversity
   - Preserving Cultural Diversity
   - Preserving Intellectual Diversity
  
-- Building tools that directly aid in any of those areas
+#### - Building tools that directly aid in any of those areas
   - Power multipliers: Applications, Computation, Predictive Algorithms, Machine Learning
   - Philosophies and Practices
   - Products
   - Services
   - Communities
-```
 
 
 ### Moment of Zen
