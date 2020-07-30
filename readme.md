@@ -23,17 +23,16 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Our environment has outgrown our biology.
 - Our emotions evolved for environmental pressures that we no longer experience and for a time and place that we no longer live.
 - Our emotions have been decoupled from our survival and now serve as a means of entertainment and forcing functions in the simulacrum we now live in.
-- Stories are no longer effective against the complexity of the world we have created.  We can care for a single person or animal or fish if we visualize it, but we can't fathom for feel for the millions of people, and complicated mechanisms, and dynamic power structures involved in creating everything that we touch, experience, or put in our bodies.
+- Stories are no longer effective against the complexity of the world we have created.  We can care for a single person, or animal, or plant if we visualize it, but we can't fathom or feel for the millions of people, complicated mechanisms, and dynamic power structures involved in creating everything that we touch, experience, or put in our bodies.
 - The taste buds that used to measure the caloric content of our food or test for poisons, now serve as entertainment and have no way to test for the obfuscated externalities created by food production that is actually killing us.
-- When quantified in energy, harm, pain, or pollution, all humans are a net-negative, so we simply have to agree and apply weight to the fact human-consciousness is more valuable that the resources required to sustain and evolve it.
-- There is no going back to the land without a massive human die-off.
-- Mega-cities are the new nature.
-- Late-stage-capitalism is not the answer.
+- When quantified in energy, harm, pain, or pollution, all humans are a net-negative, so we simply have to agree and apply weight to the fact that human-consciousness is more valuable than the resources required to sustain and evolve it.
+- There is no going back to the land without a massive human die-off; megacities are the new nature.
+- Late-stage capitalism is not the answer.
 - Conscious hedonism is not the answer.
 - We must discover the edges of human conscious experience and expand on them. 
 - We must create tools that allow us to feel and experience the scale of the world that we are now living in.
 - Nihilism is the capital-T Truth, but FUCK Nihilism.
-- We are climbing a mountain with a never-ending summit.
+- We are climbing a mountain with a never-ending summit.<sup id="a1">[*1](#f1)</sup>
 - Preventing suffering is not the project, it is just the cost of doing business.
 - Preventing the destruction of Gaia and the natural world is not the project, it is just the cost of doing business.
 - The Human Project needs to be one of progression and a positive valance and not just pain prevention and elimination of suffering.
@@ -41,6 +40,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
+<sub id="f1">1. Quote by Yvon Chouinard. [↩](#a1)</sub>
 
 ### Contact me to collaborate on
 
