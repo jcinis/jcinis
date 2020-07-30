@@ -40,7 +40,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
-<sub id="f1">1. Quote by Yvon Chouinard. [↩](#a1)</sub>
+<sub id="f1">[1.](#a1) Quote by Yvon Chouinard.</sub>
 
 ### Contact me to collaborate on
 
