@@ -4,7 +4,7 @@ I'm Jessey White-Cinis,
 
 I belive that humans are just here to play, and to stuard biological life on earth, and to birth non-biological electronic life in an effort to escape Earth's biosphere and to observe, understand, and evolve The Greater Universe.
 
-I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.
+I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep [j.cin.is](https://j.cin.is) relatively current to my whereabouts mentally and physically.
 
 I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
 
