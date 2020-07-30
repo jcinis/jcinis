@@ -1,5 +1,5 @@
 ### <img src="https://github.com/jcinis/jcinis/raw/master/hello-multiverse.svg" width="100%" alt="Hello Multiverse" title="Hello Multiverse" />
-<blockquote>
+
 I'm Jessey White-Cinis,
 
 I belive that humans are just here to play, and to stuard biological life on earth, and to birth non-biological electronic life in an effort to escape Earth's biosphere and to observe, understand, and evolve The Greater Universe.
@@ -7,7 +7,7 @@ I belive that humans are just here to play, and to stuard biological life on ear
 I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep [j.cin.is](https://j.cin.is) relatively current to my whereabouts mentally and physically.
 
 I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
-</blockquote>
+
 
 ### <img src="https://github.com/jcinis/jcinis/raw/master/transmissions-from-the-void.svg" width="100%" alt="Transmissions from The Void" title="Transmissions from The Void" />
 
