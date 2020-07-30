@@ -1,12 +1,12 @@
 ### Hello Multiverse
 
-I'm Jessey White-Cinis, aka jcinis, aka alphadecay, aka mindthealgorithm aka basic.fail
+I'm Jessey White-Cinis,
 
-I belive that humans are just here to play, stuard biological life on earth, and birth non-biological electronic life in an effort to observe The Greater Universe.
+I belive that humans are just here to play, and to stuard biological life on earth, and to birth non-biological electronic life in an effort to escape Earth's biosphere and to observe, understand, and evolve The Greater Universe.
 
-I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.  I love a good brain-dance and a cup of tea, so feel free to email me for a call or socially-distanced hang.
+I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep https://j.cin.is relatively current to my whereabouts mentally and physically.
 
-🦾🖤
+I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
 
 
 ### Transmissions from The Void
@@ -40,13 +40,10 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - Marketing is the new violence.  Instead of physical force being used to gain access to your resources, marketing manipulates you towards doing something that is in the benefit of the marketer (whether or not the message or action is good for the consumer).
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
-<sub id="f1">[1.](#a1) Quote by Yvon Chouinard.</sub>
 
-### Contact me to collaborate
+### Contact me to collaborate on
 
-I'm primarily interested in efforts that expand the bandwidth, quality, dimensionality, and distance of communication and collaboration.
-
-#### - Expanding the breadth of human conscious experience
+#### Expanding the breadth of human conscious experience
   - Brain Computer Interfaces (BCI)
   - Psychedelics
   - Meditation and Mindfulness practices
@@ -56,19 +53,19 @@ I'm primarily interested in efforts that expand the bandwidth, quality, dimensio
   - Gatherings, conferences, and festivals
   - Art and Creativity
 
-#### - Expending the quality of conscious experiences
+#### Expending the quality of conscious experiences
   - Health
   - Longevity
   - Exercise
   - Medicine
 
-#### - Expanding the depth of human conscious experiences
+#### Expanding the depth of human conscious experiences
   - Mastery
   - Flow states
   - Teaching / Learning
   - Travel
 
-#### - Making space for more people. (The best for the least for the most)
+#### Making space for more people. (The best for the least for the most)
   - Sustainable Energy Production
   - Sustainable Food Production
   - Access to The Internet for all
@@ -77,19 +74,24 @@ I'm primarily interested in efforts that expand the bandwidth, quality, dimensio
   - Access to birth control for all
   - Access to education for all
 
-#### - Preserving the building blocks and resources for life to flourish and evolve
+#### Preserving the building blocks and resources for life to flourish and evolve
   - Preserving Bio Diversity
   - Preserving Cultural Diversity
   - Preserving Intellectual Diversity
  
-#### - Building tools that directly aid in any of those areas
-  - Power multipliers: Applications, Computation, Predictive Algorithms, Machine Learning
+#### Building force multipliers that directly aid in any of the above areas
+  - Software Applications, Computation, Predictive Algorithms, Machine Learning
   - Philosophies and Practices
-  - Products
-  - Services
-  - Communities
+  - Physical Products
+  - Physical or digital services
+  - Stuarding Communities
 
 
 ### Moment of Zen
 
 What it must be to be a sphere. To grow in all directions at once. To move in complete potentiality, ready for whatever may come from any vector or valence. To be complete, contained, and listening to all possibilities. May we all be spheres. ⚪
+
+
+------
+<sub id="f0">[0.](#a0) j at cin dot is</sub>  
+<sub id="f1">[1.](#a1) Quote by Yvon Chouinard.</sub>  
