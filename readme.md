@@ -1,9 +1,5 @@
 ### Hello Multiverse
 
-### ![HELLO MULTIVERSE](https://cin.is/_lib/g3.svg?text=HELLO+MULTIVERSE)
-
-<img src="https://cin.is/_lib/g3.svg?text=HELLO+MULTIVERSE" width="100%" alt="HELLO MULTIVERSE" />
-
 I'm Jessey White-Cinis,
 
 I belive that humans are just here to play, and to stuard biological life on earth, and to birth non-biological electronic life in an effort to escape Earth's biosphere and to observe, understand, and evolve The Greater Universe.
