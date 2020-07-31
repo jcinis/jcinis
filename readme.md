@@ -1,9 +1,8 @@
 ### Hello Multiverse
 
-### ![HELLO MULTIVERSE](https://github.com/jcinis/jcinis/raw/master/g3.svg?text=HELLO+MULTIVERSE)
+### ![HELLO MULTIVERSE](https://cin.is/_lib/g3.svg?text=HELLO+MULTIVERSE)
 
-<img src="https://github.com/jcinis/jcinis/raw/master/g3.svg?text=HELLO+MULTIVERSE" width="100%" alt="HELLO MULTIVERSE" />
-
+<img src="https://cin.is/_lib/g3.svg?text=HELLO+MULTIVERSE" width="100%" alt="HELLO MULTIVERSE" />
 
 I'm Jessey White-Cinis,
 
