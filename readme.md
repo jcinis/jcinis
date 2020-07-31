@@ -9,7 +9,7 @@ I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to 
 I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
 
 
-### <img src="https://github.com/jcinis/jcinis/raw/master/transmissions-from-the-void.svg" width="100%" alt="TRANSMISSIONS FROM THE VOID" />
+### <img src="https://github.com/jcinis/jcinis/raw/master/transmissions-from-the-void.svg" width="100%" alt="Transmissions from The Void" title="Transmissions from The Void" />
 
 The reduction of negatively valenced emotions, and optimization of positively valenced ones is the primary driver of human effort, however, the only fundamental 'progress' is the increase and diversity of structured information  (atoms, dna, bits) and the battle against entropy.
 
@@ -18,7 +18,7 @@ I deeply believe in aiding the continued evolution, diversity, and increased com
 Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyperstimuli in every physical and emotional dimension.
 
 
-### <img src="https://github.com/jcinis/jcinis/raw/master/current-beliefs-that-might-change.svg" width="100%" alt="CURRENT BELIEFS THAT MIGHT CHANGE" />
+### <img src="https://github.com/jcinis/jcinis/raw/master/transmissions-from-the-void.svg" width="100%" alt="Transmissions from The Void" title="Transmissions from The Void" />
 
 - Our environment has outgrown our biology.
 - Our emotions evolved for environmental pressures that we no longer experience and for a time and place that we no longer live.
@@ -41,7 +41,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
 - US Politics is a fight that needs to be fought to prevent further slipping towards dystopia, however, the future of human progress will likely not come from projects initiated from within those walls.
 
 
-### <img src="https://github.com/jcinis/jcinis/raw/master/lets-collaborate-on.svg" width="100%" alt="LET'S COLLABORATE ON" />
+### <img src="https://github.com/jcinis/jcinis/raw/master/lets-collaborate-on.svg" width="100%" alt="Lets collaborate on" title="Lets collaborate on" />
 
 #### Expanding the breadth of human conscious experience
   - Brain Computer Interfaces (BCI)
@@ -87,7 +87,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Stuarding Communities
 
 
-### <img src="https://github.com/jcinis/jcinis/raw/master/moment-of-zen.svg" width="100%" alt="MOMENT OF ZEN" />
+### <img src="https://github.com/jcinis/jcinis/raw/master/moment-of-zen.svg" width="100%" alt="MOMENT OF ZEN" title="Moment of Zen" />
 
 What it must be to be a sphere. To grow in all directions at once. To move in complete potentiality, ready for whatever may come from any vector or valence. To be complete, contained, and listening to all possibilities. May we all be spheres. ⚪
 
