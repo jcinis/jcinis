@@ -4,7 +4,7 @@ I'm Jessey White-Cinis,
 
 I believe that humans are just here to play, and to steward biological life on earth, and to birth non-biological electronic life in an effort to escape Earth's biosphere and to observe, understand, and evolve The Greater Universe.
 
-I'm easy to find everywhere by the cannonical handle of 'jcinis' and attempt to keep [j.cin.is](https://j.cin.is) relatively current to my whereabouts mentally and physically.
+I'm easy to find everywhere by the canonical handle of 'jcinis' and attempt to keep [j.cin.is](https://j.cin.is) relatively current to my whereabouts mentally and physically.
 
 I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
 
@@ -15,7 +15,7 @@ The reduction of negatively valenced emotions, and optimization of positively va
 
 I deeply believe in aiding the continued evolution, diversity, and increased complexity of self-replicating information and it's instantiated emergent experiences.  In the same way that Fuller would re-describe UNIVERSE as all things physical and metaphysical, I would expand the explanation of LIFE to all things that move us away from the warm void of entropy.  Biological life is currently the most important instantiation, however, I believe that it will self-exterminate due to over-successful species if we don't help to augment the 'natural' processes.  This does not mean optimizing with human emotions as the fit functions, but expanding the playing field and turning the zero-sum game of battling for resources and energy into a new infinite game played in many dimensions.  The word "Extropy" would have been good but it was taken by the cybernetics movement and made to be incredibly anthropocentric.  We need a new word to open the imaginations of people and to let them understand the majesty that is our own beauty as a possible steward to the only fundamental progress that we know of.
 
-Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyperstimuli in every physical and emotional dimension.
+Humans can only experience The Universe at a Human Scale.  Our bodies and thoughts evolved for physical and time scales that our tools can now reach far beyond, and our emotions, that evolved as triggers for our actions and survival, are now decoupled from the very environment that they were birthed to survive within.  We now live in The Great Simulacrum where our environment is defined by a constant and excessive abundance of hyper-stimuli in every physical and emotional dimension.
 
 
 ### Current beliefs that might change
