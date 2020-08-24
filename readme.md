@@ -65,7 +65,8 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Teaching / Learning
   - Travel
 
-#### Making space for more people. (The best for the least for the most)
+#### Making space for more people.
+*The best for the least for the most*
   - Sustainable Energy Production
   - Sustainable Food Production
   - Access to The Internet for all
@@ -84,7 +85,7 @@ Humans can only experience The Universe at a Human Scale.  Our bodies and though
   - Philosophies and Practices
   - Physical Products
   - Physical or digital services
-  - Stuarding Communities
+  - Stewarding Communities
 
 
 ### Moment of Zen
