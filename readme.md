@@ -6,7 +6,7 @@ I believe that humans are just here to play, and to steward biological life on e
 
 I'm easy to find everywhere by the canonical handle of 'jcinis' and attempt to keep [j.cin.is](https://j.cin.is) relatively current to my whereabouts mentally and physically.
 
-I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or socially-distanced hang.
+I love a good brain dance and a cup of tea, so feel free to <span id="a0">[email me](#f0)</span> to set up a call or hang.
 
 
 ### Transmissions from The Void
