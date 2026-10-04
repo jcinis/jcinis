@@ -1,5 +1,3 @@
-## VEXLIN
+## aka VEXLIN
 
-Almost Human.
-Almost AI.
-Almost Ready.
+https://github.com/vexlin
